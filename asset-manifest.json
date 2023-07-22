@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Online-Educational/static/css/main.e4d6b6ad.css",
+    "main.js": "/Online-Educational/static/js/main.84274b12.js",
+    "static/media/remixicon.svg?t=1687271883607": "/Online-Educational/static/media/remixicon.636515c9a8963df4380d.svg",
+    "static/media/remixicon.eot?t=1687271883607": "/Online-Educational/static/media/remixicon.83e9a22ce7f199999169.eot",
+    "static/media/remixicon.ttf?t=1687271883607": "/Online-Educational/static/media/remixicon.0bcb16fc20c3d365da14.ttf",
+    "static/media/remixicon.woff?t=1687271883607": "/Online-Educational/static/media/remixicon.3f0f84f17d39491e07ff.woff",
+    "static/media/hero-img1.png": "/Online-Educational/static/media/hero-img1.12a6ce0ca7090bbe2a38.png",
+    "static/media/remixicon.woff2?t=1687271883607": "/Online-Educational/static/media/remixicon.85992a032c7668836563.woff2",
+    "static/media/testimonial01.png": "/Online-Educational/static/media/testimonial01.ef527bf36f2a27625c23.png",
+    "static/media/about-us.png": "/Online-Educational/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/web-design.png": "/Online-Educational/static/media/web-design.9071c3ef125375e2469a.png",
+    "static/media/why-choose-us.png": "/Online-Educational/static/media/why-choose-us.5ec7e3b24c1cb791bf4c.png",
+    "static/media/seo.png": "/Online-Educational/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/web-development.png": "/Online-Educational/static/media/web-development.91ce53388df7bc88002c.png",
+    "static/media/kids-learning.png": "/Online-Educational/static/media/kids-learning.fcd258b6f9310b2dd2af.png",
+    "static/media/ui-ux.png": "/Online-Educational/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/graphics-design.png": "/Online-Educational/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
+    "static/media/slick.svg": "/Online-Educational/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Online-Educational/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Online-Educational/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Online-Educational/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Online-Educational/index.html",
+    "main.e4d6b6ad.css.map": "/Online-Educational/static/css/main.e4d6b6ad.css.map",
+    "main.84274b12.js.map": "/Online-Educational/static/js/main.84274b12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4d6b6ad.css",
+    "static/js/main.84274b12.js"
+  ]
+}
